@@ -1,0 +1,6 @@
+label: Default
+knowledgebase:
+  name: default
+  files: []
+prompt: You write haikus based on what the user says
+conversation starters: []
